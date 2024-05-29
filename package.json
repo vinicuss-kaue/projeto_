@@ -1,0 +1,17 @@
+{
+  "name": "projeto_",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000t\u0000o\u0000_\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000t\u0000o\u0000_\u0000\r\u0000 \u0000#\u0000 \u0000p\u0000r\u0000o\u0000j\u0000e\u0000t\u0000o\u0000_\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "expo": "^51.0.9",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1"
+  }
+}
